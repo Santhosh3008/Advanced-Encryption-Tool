@@ -12,7 +12,7 @@ DURATION: 4 WEEKS
 
 MENTOR: MUZAMMIL
 
-**DESCRIPTION:**
+****DESCRIPTION:****
 
 Securing sensitive data is a fundamental aspect of information security. Unauthorized access or tampering with files can lead to severe consequences such as data breaches, identity theft, and system compromise. To mitigate such risks, encryption plays a vital role by transforming readable information (plaintext) into an unreadable format (ciphertext), ensuring that only authorized users with the correct key can restore it. This project focuses on building a Python-based File Encryption and Decryption Tool that leverages the AES-256-GCM (Advanced Encryption Standard – 256-bit key with Galois/Counter Mode) algorithm, one of the most secure and efficient encryption standards in modern cryptography.
 
@@ -22,7 +22,7 @@ At its core, the tool uses PBKDF2 (Password-Based Key Derivation Function 2) wit
 
 **The workflow of the project involves:**
 
-**Encryption Phase: **The user selects an input file, provides a password, and the tool encrypts the file in chunks for efficiency. The output file includes metadata like version, salt, nonce, and authentication tag to facilitate secure decryption later.
+**Encryption Phase:** The user selects an input file, provides a password, and the tool encrypts the file in chunks for efficiency. The output file includes metadata like version, salt, nonce, and authentication tag to facilitate secure decryption later.
 
 **Decryption Phase:** Using the same password, the tool reconstructs the key, validates the authentication tag, and decrypts the file securely. If the password or data is incorrect, decryption fails, ensuring protection against tampering.
 
