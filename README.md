@@ -31,3 +31,8 @@ At its core, the tool uses PBKDF2 (Password-Based Key Derivation Function 2) wit
 This tool effectively combines cryptographic strength, user-friendliness, and data integrity into one utility. It is ideal for securing personal or confidential documents, ensuring compliance with data protection policies, and serving as an educational project to demonstrate practical applications of modern encryption techniques. By implementing AES-256-GCM with PBKDF2 key derivation, the project exemplifies how robust cryptography can be integrated into real-world applications to achieve high standards of data security.
 
 ****Output:****
+<img width="1718" height="1075" alt="Image" src="https://github.com/user-attachments/assets/90a05b35-4a0c-42bf-86bd-0d2b113bff2e" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/8583221a-93aa-4e6e-96fc-ac75dca91b41" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/18fecb4a-786f-4be1-b1bf-56b972c08b77" />
